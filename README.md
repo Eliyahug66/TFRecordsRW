@@ -1,4 +1,4 @@
-https://github.com/Eliyahug66/TFRrecordsRW
+https://github.com/Eliyahug66/TFRecordsRW
 # TFRreader, TFRwriter
 ### Java fast & simple serialization of general Tensorflow Records
 #### Author: [Eliyahu Greitzer](mailto:egreitzer@gmail.com)
